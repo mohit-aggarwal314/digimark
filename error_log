@@ -1,0 +1,11 @@
+[08-Jan-2023 22:44:00 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/webdevelopment/mail.php on line 7
+[11-Jan-2023 05:02:55 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/marketing/mail.php on line 7
+[11-Jan-2023 05:05:10 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/marketing/mail.php on line 7
+[11-Jan-2023 05:06:08 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/marketing/mail.php on line 7
+[11-Jan-2023 05:06:33 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/marketing/mail.php on line 7
+[12-Jan-2023 00:26:22 America/Boise] PHP Warning:  Undefined array key "message" in /home1/zxritjmy/public_html/marketing/mail.php on line 7
+[02-Apr-2025 12:57:56 UTC] PHP Warning:  Undefined array key "F_name" in /home2/digimel7/public_html/mail.php on line 3
+[02-Apr-2025 12:57:56 UTC] PHP Warning:  Undefined array key "L_name" in /home2/digimel7/public_html/mail.php on line 4
+[02-Apr-2025 12:57:56 UTC] PHP Warning:  Undefined array key "mobile" in /home2/digimel7/public_html/mail.php on line 5
+[02-Apr-2025 12:57:56 UTC] PHP Warning:  Undefined array key "email" in /home2/digimel7/public_html/mail.php on line 6
+[02-Apr-2025 12:57:56 UTC] PHP Warning:  Undefined array key "message" in /home2/digimel7/public_html/mail.php on line 7
